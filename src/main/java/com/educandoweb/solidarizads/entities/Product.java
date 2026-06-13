@@ -24,7 +24,7 @@ public class Product implements Serializable {
     private Long id;
     private String name;
     private String description;
-    private Double price; // No nosso caso, representa o valor estimado do donativo para o relatório do PI
+    private Double price;
     private String imgUrl;
 
     @ManyToMany
