@@ -1,6 +1,8 @@
 com\educandoweb\solidarizads\entities\Category.class
 com\educandoweb\solidarizads\repositories\CategoryRepository.class
+com\educandoweb\solidarizads\services\ProductService.class
 com\educandoweb\solidarizads\config\TestConfig.class
+com\educandoweb\solidarizads\resources\ProductResource.class
 com\educandoweb\solidarizads\entities\Product.class
 com\educandoweb\solidarizads\repositories\ProductRepository.class
 com\educandoweb\solidarizads\SolidarizadsApplication.class
